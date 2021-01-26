@@ -1,11 +1,7 @@
 # TIL
 Today I Learned..
 
-<h1>title</h1>
-
-#복습중인 불안한 내모습.
-
-## Sample code
+# 복습중인 불안한 내모습.
 
 '''
 허둥지둥
@@ -15,7 +11,7 @@ Today I Learned..
 Floating on feather
 ```
 
-## Day4, 2021 1 25
+## Day4, 2021 01 25
 " 머리속에서 문제를 보고 떠오르지 않아, 반성해!"
 ```
 삼항연산자Ternary Operators
